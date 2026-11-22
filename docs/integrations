@@ -1,0 +1,17 @@
+WhatsApp
+Email
+Google
+CRM
+Payment Systems
+Accounting Systems
+Other APIs
+/////////
+in the future 
+
+integrations/
+│
+├── whatsapp/
+├── email/
+├── google/
+├── crm/
+└── payments/
