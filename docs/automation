@@ -1,0 +1,24 @@
+Customer sends message
+        ↓
+Aivora receives message
+        ↓
+AI analyzes it
+        ↓
+Determine customer intent
+        ↓
+Check CRM
+        ↓
+Create response
+        ↓
+Send response
+        ↓
+Save interaction
+//////////
+in the future 
+
+automation/
+│
+├── workflows/
+├── triggers/
+├── actions/
+└── rules/
