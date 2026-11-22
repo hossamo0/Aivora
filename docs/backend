@@ -1,0 +1,18 @@
+frontend
+     ↓
+   API
+     ↓
+backend
+     ↓
+database
+////////////////
+IN the future 
+
+backend/
+│
+├── api/
+├── models/
+├── services/
+├── database/
+├── auth/
+└── config/
